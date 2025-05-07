@@ -1,8 +1,10 @@
-專案簡介
-作品名稱
+### 專案簡介
+
+
+### 作品名稱
 《IM TANKER》
 
-遊戲介紹
+### 遊戲介紹
 《IM TANKER》是一款單機雙人對戰的坦克遊戲。
 
 遊戲採五戰三勝制，每回合提供九張地圖給玩家自由選擇，首先獲得三勝者為最終贏家！
@@ -13,5 +15,9 @@
 
 玩家會面後，這時就是考驗操縱的熟練度了！除了高超的槍法外，還需要能巧妙地躲開對方的攻擊。若覺得實力懸殊的話，也可以藉由箱子掉落的各種道具增強能力。
 
-HackMD 書面報告
-連結[https://hackmd.io/@dell120711/H1ZUnYugge]
+### HackMD 書面報告
+[連結](https://hackmd.io/@dell120711/H1ZUnYugge)
+
+### GitHub Repository
+
+[IM TANKER GitHub Repo](https://github.com/Dell120711/IM_TANKER)
